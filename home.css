@@ -72,7 +72,8 @@ footer{
 	display:block;
 	padding:10px 10px 70px 10px;
 	margin-top: 0px;
-	height:100px;
+	height:50px;
+  position: fixed;
 
 
 }
@@ -178,6 +179,8 @@ main{
     border: 2px solid #000000;
     padding: 20px; 
     width: 200px;
+    margin-left: auto;
+    margin-right: auto;
     height: 150px;
     position:absolute;
     top:550px;
@@ -207,6 +210,8 @@ main{
     height: 150px;
     position:absolute;
     top:550px;
+    margin-left: auto;
+    margin-right: auto;
     left:840px; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
@@ -219,6 +224,8 @@ main{
     border-radius: 25px;
     border: 2px solid #000000;
     padding: 20px; 
+    margin-left: auto;
+    margin-right: auto;
     width: 200px;
     height: 150px;
     position:absolute;
