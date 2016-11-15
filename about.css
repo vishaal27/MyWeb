@@ -141,8 +141,8 @@ li a:hover {
 position:absolute;
 margin-right: auto;
 margin-left: auto;
-top:210px;
-left:180px;
+top:32%;
+left:15%;
 display: inline-block;
 float:left;
 padding:10px;
@@ -150,17 +150,17 @@ padding:10px;
 
 #center {
 position:absolute;
-top:210px;
+top:32%;
 margin-right: auto;
 margin-left: auto;
-left:520px;
+left:42%;
 display: inline-block;
 padding:10px;
 }
 #right {
 position:absolute;
-top:210px;
-left:900px;
+top:32%;
+left:65%;
 margin-right: auto;
 margin-left: auto;
 display: inline-block;

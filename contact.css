@@ -176,8 +176,8 @@ main{
     margin-right: auto;
     margin-left: auto;
     position:absolute;
-    top:550px;
-    left:200px; 
+    top:85%;
+    left:17%; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -204,8 +204,8 @@ main{
     width: 200px;
     height: 150px;
     position:absolute;
-    top:550px;
-    left:840px; 
+    top:85%;
+    left:65%; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -220,8 +220,8 @@ main{
     width: 200px;
     height: 150px;
     position:absolute;
-    top:850px;
-    left:200px; 
+    top:140%;
+    left:17%; 
     margin-right: auto;
     margin-left: auto;
     -webkit-transition: all .5s ease;
@@ -240,8 +240,8 @@ main{
     position:absolute;
     margin-right: auto;
     margin-left: auto;
-    top:850px;
-    left:840px; 
+    top:140%;
+    left:65%; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -259,8 +259,8 @@ main{
     margin-right: auto;
     margin-left: auto;
     position:absolute;
-    top:1150px;
-    left:530px; 
+    top:183%;
+    left:42%; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
