@@ -176,8 +176,8 @@ main{
     margin-right: auto;
     margin-left: auto;
     position:absolute;
-    top:85%;
-    left:17%; 
+    top:550px;
+    left:70px; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -204,8 +204,8 @@ main{
     width: 200px;
     height: 150px;
     position:absolute;
-    top:85%;
-    left:65%; 
+    top:550px;
+    left:670px; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -220,8 +220,8 @@ main{
     width: 200px;
     height: 150px;
     position:absolute;
-    top:140%;
-    left:17%; 
+    top:850px;
+    left:70px; 
     margin-right: auto;
     margin-left: auto;
     -webkit-transition: all .5s ease;
@@ -240,8 +240,8 @@ main{
     position:absolute;
     margin-right: auto;
     margin-left: auto;
-    top:140%;
-    left:65%; 
+    top:850px;
+    left:670px; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -259,8 +259,8 @@ main{
     margin-right: auto;
     margin-left: auto;
     position:absolute;
-    top:183%;
-    left:42%; 
+    top:1150px;
+    left:370px; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -280,6 +280,7 @@ h1{
 }
 
 .wrapper{
-	width:1000px;
+	width:80%;
 	margin:0 auto;
+  position:relative;
 }

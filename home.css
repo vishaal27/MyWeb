@@ -159,7 +159,7 @@ h1#head{
 }
 
 main{
-	height:700px;
+	height:650px;
 }
 
 
@@ -176,12 +176,12 @@ main{
 #main1 {
     border-radius: 25px;
     border: 2px solid #000000;
-    padding: 20px; 
+    padding: 20px;
     width: 200px;
     height: 150px;
     position:absolute;
-    top:85%;
-    left:17%; 
+    top:550px;
+    left:70px; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -206,10 +206,10 @@ main{
     width: 200px;
     height: 150px;
     position:absolute;
-    top:85%;
+    top:550px;
     margin-left: auto;
     margin-right: auto;
-    left:65%; 
+    left:670px; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -226,8 +226,8 @@ main{
     width: 200px;
     height: 150px;
     position:absolute;
-    top:140%;
-    left:42%; 
+    top:850px;
+    left:370px; 
     -webkit-transition: all .5s ease;
      -moz-transition: all .5s ease;
        -o-transition: all .5s ease;
@@ -241,6 +241,8 @@ main{
 }
 
 .wrapper{
-  width:1000px;
+  width:80%;
+  position:relative;
   margin: 0 auto;
+
 }
